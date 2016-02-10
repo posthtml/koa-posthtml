@@ -1,0 +1,10 @@
+#FILES
+
+.editorconfig
+.gitignore
+npm-debug.log
+
+# DIRECTORIES
+
+test
+node_modules
