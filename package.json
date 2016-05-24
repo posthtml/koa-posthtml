@@ -1,12 +1,12 @@
 {
   "name": "koa-posthtml",
-  "version": "0.0.1",
+  "version": "0.8.0",
   "description": "PostHTML View Engine for Koa",
   "main": "index.js",
   "dependencies": {
     "co-fs": "^1.2.0",
     "copy-to": "^2.0.1",
-    "posthtml": "^0.8.2"
+    "posthtml": "^0.8.7"
   },
   "keywords": [
     "HTML",
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michael-ciniawsky/koa-posthtml.git"
+    "url": "git+https://github.com/posthtml/koa-posthtml.git"
   },
   "bugs": {
-    "url": "https://github.com/michael-ciniawsky/koa-posthtml/issues"
+    "url": "https://github.com/posthtml/koa-posthtml/issues"
   },
-  "homepage": "https://github.com/michael-ciniawsky/koa-posthtml#readme",
+  "homepage": "https://github.com/posthtml/koa-posthtml#readme",
   "license": "MIT"
 }
