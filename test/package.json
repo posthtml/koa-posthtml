@@ -1,0 +1,26 @@
+{
+  "name": "koa-posthtml-test",
+  "version": "1.0.0",
+  "description": "PostHTML View Engine for Koa",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "posthtml-bem": "^0.2.2"
+  },
+  "scripts": {
+    "start": "echo '=> Starting Server' && node server"
+  },
+  "author": {
+    "name": "Michael Ciniawsky",
+    "email": "<michael.ciniawsky@gmail.com>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posthtml/koa-posthtml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/posthtml/koa-posthtml/issues"
+  },
+  "homepage": "https://github.com/posthtml/koa-posthtml#readme",
+  "license": "MIT"
+}
