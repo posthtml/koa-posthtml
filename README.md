@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This package is no longer maintained.** It will not receive updates, fixes or support.
+> PostHTML itself can be used directly: https://github.com/posthtml/posthtml
+
 [![NPM][npm]][npm-url]
 [![Deps][deps]][deps-url]
 [![Tests][build]][build-url]
